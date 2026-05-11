@@ -1,2 +1,2 @@
 # demo_repo
-there is no describtion
+there is no description
